@@ -33,7 +33,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'active_model_serializers'
-gem 'ffaker'
+gem 'faker'
+gem 'responders'
 
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
